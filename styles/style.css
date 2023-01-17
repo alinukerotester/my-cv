@@ -104,7 +104,7 @@ ol li,
     color: #FB6D3A;
 }
 
-.work-experience-period {
+.period {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -131,31 +131,26 @@ ol li,
 }
 
 .education-section {
-    margin-bottom: 100px;
+    margin-bottom: 110px;
+    margin-top: 40px;
 }
 
-#educationName {
-    margin: 40px 0 5px 0;
-}
-
-.education-university {
+.university-name {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
     color: #FB6D3A;
-    margin: 10px 0 5px 0;
 }
 
-.education-profile {
+.university-degree {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
     color: #000000;
-    margin: 5px 0 5px 0;
 }
 
 /* Sidebar Styles */
